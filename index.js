@@ -14,5 +14,8 @@ function increment(n) {
   return ++n;
 }
 function decrement(n) {
-  return --n;
+  return --learn testn;
+}
+function  makeInt(n) {
+  return parseInt('2', 10);
 }
