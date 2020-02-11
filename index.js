@@ -13,6 +13,6 @@ function divide(a, b) {
 function increment(a) {
   return a++;
 }
-function increment(a) {
-  return a++;
+function decrement(a) {
+  return a--;
 }
